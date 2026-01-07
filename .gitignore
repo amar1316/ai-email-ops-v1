@@ -1,0 +1,10 @@
+venv/
+.env
+token.json
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+credentials.json
+sheets_credentials.json
+token.pickle
